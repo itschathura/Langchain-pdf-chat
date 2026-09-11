@@ -1,2 +1,2 @@
 # Langchain-pdf-chat
-Minimal RAG chatbot built brick-by-brick to learn LangChain - PDF upload, chunking, embeddings, retrieval, and an LCEL chain, with a Streamlit UI.
+A small "chat with a PDF" app built step-by-step to learn LangChain's core building blocks (document loaders, text splitters, embeddings, retrievers, prompt templates, and LCEL chains)
